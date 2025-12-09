@@ -14,21 +14,25 @@ Select the "base" version of one asset and re-paramterize its inputs (capacity, 
 
 # Change documented  
 
-## Asset Chosen:
+## Asset Chosen: VRE Solar Ground Mounted plants (Rooftop Solar excluded)
 
-## Aspect altered:
+## Aspect altered: 
+1. Maximum Capacity PIER Region wise (in MW) - This refers to the Potential Maximum Solar Capacity PIER Region-wise. 
+2. Maximum New Capacity PIER Region wise (in MW) - This refers to the maximum annual rate of new solar capacity addition PIER region-wise.
 
 ## Resources accessed to make alteration:
+1. NITI Aayog - India Climate and Energy Dashboard
+2. PIER Supply Model (early version) - Supply/Parameters/Technologies/ECT_CapAddBounds.csv
 
 ## Parameters/Inputs modified:
-1. A
-2. B
-3. C
+1. Maximum Capacity PIER Region wise (in MW) - This refers to the Potential Maximum Solar Capacity PIER Region-wise. 
+2. Maximum New Capacity PIER Region wise (in MW) - This refers to the maximum annual rate of new solar capacity addition PIER region-wise.
 
-## Verified how?
+
+## Verified how? Verified with NITI Aayog official dashboard (treated as official government source for solar potential data); Max annual capacity addition - corroborated with Ministry of New and Renewable Energy data.
 
 ## Verified with run of Macro?
-Y/N
+N
 Details
 
 ## Limitations/Cautions/Further work needed
