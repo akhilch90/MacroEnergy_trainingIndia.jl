@@ -18,8 +18,8 @@
                 "id": "NR_solar_pv",
                 "location": "NR",
                 "existing_capacity": 36938,
-                "max_new_capacity": 40000,
-                "max_capacity": 400000,
+                "max_new_capacity": 13300,
+                "max_capacity": 985960,
                 "availability": {
                     "timeseries": {
                         "header": "NR_solar_pv",
@@ -31,8 +31,8 @@
                 "id": "NER_solar_pv",
                 "location": "NER",
                 "existing_capacity": 300,
-                "max_new_capacity": 600,
-                "max_capacity": 10000,
+                "max_new_capacity": 113,
+                "max_capacity": 46510,
                 "availability": {
                     "timeseries": {
                         "header": "NER_solar_pv",
@@ -44,8 +44,8 @@
                 "id": "ER_solar_pv",
                 "location": "ER",
                 "existing_capacity": 1486,
-                "max_new_capacity": 3000,
-                "max_capacity": 30000,
+                "max_new_capacity": 401,
+                "max_capacity": 247870,
                 "availability": {
                     "timeseries": {
                         "header": "ER_solar_pv",
@@ -57,8 +57,8 @@
                 "id": "WR_solar_pv",
                 "location": "WR",
                 "existing_capacity": 37234,
-                "max_new_capacity": 40000,
-                "max_capacity": 1000000,
+                "max_new_capacity": 10200,
+                "max_capacity": 1182600,
                 "availability": {
                     "timeseries": {
                         "header": "WR_solar_pv",
@@ -70,8 +70,8 @@
                 "id": "SR_solar_pv",
                 "location": "SR",
                 "existing_capacity": 31907,
-                "max_new_capacity": 40000,
-                "max_capacity": 1000000,
+                "max_new_capacity": 6500,
+                "max_capacity": 880410,
                 "availability": {
                     "timeseries": {
                         "header": "SR_solar_pv",
