@@ -14,16 +14,17 @@ Select the "base" version of one asset and re-paramterize its inputs (capacity, 
 
 # Change documented  
 
-## Asset Chosen:
+## Asset Chosen: Existing Capacity for 2024
 
-## Aspect altered:
+## Aspect altered: 
+    The existing capacity of solar was available as per the states. These capacities are combined to represent as region. 
 
 ## Resources accessed to make alteration:
-
+Ministry of New and Renewable Energy, India : https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749f3/uploads/2024/05/20240524405410771.pdf
 ## Parameters/Inputs modified:
-1. A
-2. B
-3. C
+1. State
+2. Region
+3. Capacity in MW
 
 ## Verified how?
 
@@ -32,6 +33,5 @@ Y/N
 Details
 
 ## Limitations/Cautions/Further work needed
-1. A
-2. B
-3. C
+1. Prepare a historical time series for the existing capacities 
+

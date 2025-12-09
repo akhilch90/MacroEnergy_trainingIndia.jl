@@ -17,7 +17,7 @@
             {
                 "id": "NR_solar_pv",
                 "location": "NR",
-                "existing_capacity": 36938,
+                "existing_capacity": 28133.93,
                 "max_new_capacity": 40000,
                 "max_capacity": 400000,
                 "availability": {
@@ -30,7 +30,7 @@
             {
                 "id": "NER_solar_pv",
                 "location": "NER",
-                "existing_capacity": 300,
+                "existing_capacity": 282.20,
                 "max_new_capacity": 600,
                 "max_capacity": 10000,
                 "availability": {
@@ -43,7 +43,7 @@
             {
                 "id": "ER_solar_pv",
                 "location": "ER",
-                "existing_capacity": 1486,
+                "existing_capacity": 1098.37,
                 "max_new_capacity": 3000,
                 "max_capacity": 30000,
                 "availability": {
@@ -56,7 +56,7 @@
             {
                 "id": "WR_solar_pv",
                 "location": "WR",
-                "existing_capacity": 37234,
+                "existing_capacity": 25092.32,
                 "max_new_capacity": 40000,
                 "max_capacity": 1000000,
                 "availability": {
@@ -69,7 +69,7 @@
             {
                 "id": "SR_solar_pv",
                 "location": "SR",
-                "existing_capacity": 31907,
+                "existing_capacity": 27206.78,
                 "max_new_capacity": 40000,
                 "max_capacity": 1000000,
                 "availability": {
