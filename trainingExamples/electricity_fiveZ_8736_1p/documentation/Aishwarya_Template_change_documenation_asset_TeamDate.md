@@ -29,8 +29,8 @@ Ministry of New and Renewable Energy, India : https://cdnbbsr.s3waas.gov.in/s371
 ## Verified how?
 
 ## Verified with run of Macro?
-Y/N
-Details
+Y
+Details: RUn file for my input (exisitng capacity) for three weeks. Run perfectly.
 
 ## Limitations/Cautions/Further work needed
 1. Prepare a historical time series for the existing capacities 
